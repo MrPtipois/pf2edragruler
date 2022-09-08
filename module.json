@@ -9,8 +9,8 @@
     "styles": [],
     "socket": true,
     "system": ["pf2e"],
-    "compatibleCoreVersion": "9",
-    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "10",
+    "minimumCoreVersion": "10",
     "dependencies": [
     {
       "name": "drag-ruler",
